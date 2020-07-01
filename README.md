@@ -1,5 +1,4 @@
-<!-- Headings -->
-# MicRhoDE v1.0
+# MicRhoDE
 [![Release](https://img.shields.io/badge/release-1.0-blue.svg)
 ![Date](https://img.shields.io/badge/date-01%20July%202020-lightgrey.svg)
 ![Github Downloads
@@ -12,7 +11,7 @@
 
 <p>Based on the analysis of marine and terrestrial metagenomic data, microbial rhodopsins were suggested as prominent phototrophic mechanism on Earth. More investigations are needed to fully understand the physiological functions and fitness benefits obtained from microbial rhodopsins and their actual role in microbial ecology and in energetic balance of ecosystems.</p>
 
-## What we provide ?
+## What do we provide ?
 <p>We provide about 7900 manually curated sequences of type-1 rhodopsins from more than 450 environmental samples and organisms. All sequences were aligned according to the predicted secondary structure of the protein and a robust phylogenetic tree was constructed. Based on a robust phylogenetic analysis, we introduce an operational classification system with multiple phylogenetic levels ranging from superclusters to species-level operational taxonomic units.</p>
 
 <p>MicRhoDE tools allow sequence searches either by keywords, taxonomic unit, or sequence similarity (BLAST). Results can be sorted in raw or aligned nucleic or amino-acid sequences or visualized on a map.</p>
@@ -33,7 +32,6 @@ Numerous supporting data are also provided including:
 * Documentation
 
 ## Curators
-
 * [Dominique BOEUF](mailto:dboeuf@sb-roscoff.fr), Sorbonne Université · Laboratoire de Biodiversité et Biotechnologie Microbienne USR 3579, 66650 Banyuls-sur-Mer FRANCE
 * [Christian JEANTHON](mailto:jeanthon@sb-roscoff.fr), CNRS-Sorbonne Université · Station Biologique, 29680 Roscoff FRANCE
 
@@ -53,3 +51,8 @@ Links: [PubMed](https://pubmed.ncbi.nlm.nih.gov/26286928/)
 |mothur.tax.gz           |A text file of taxonomies for MOTHUR                                                  |
 |taxo_long.fasta.gz      |A fasta of all reference sequences with long "n-ranked" taxonomy                      |
 |UTAX.fasta.gz           |A fasta of all reference sequences with VSEARCH-formatted headers                     |
+
+
+## Report issues
+
+-   Please report any issue on [GitHub](https://github.com/roskobaz/micrhode/issues)

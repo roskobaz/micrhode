@@ -34,14 +34,13 @@ Numerous supporting data are also provided including:
 
 ## Curators
 
-* [Dominique BOEUF](mailto:dboeuf@sb-roscoff.fr), Sorbonne Université | UPMC · Laboratoire de Biodiversité et Biotechnologie Microbienne USR 3579, 66650 Banyuls-sur-Mer FRANCE
-* [Christian JEANTHON](mailto:jeanthon@sb-roscoff.fr), CNRS-Sorbonne Université, Station Biologique, 29680 Roscoff FRANCE
+* [Dominique BOEUF](mailto:dboeuf@sb-roscoff.fr), Sorbonne Université · Laboratoire de Biodiversité et Biotechnologie Microbienne USR 3579, 66650 Banyuls-sur-Mer FRANCE
+* [Christian JEANTHON](mailto:jeanthon@sb-roscoff.fr), CNRS-Sorbonne Université · Station Biologique, 29680 Roscoff FRANCE
 
 ## How to Cite
 Boeuf, D., Audic, S., Brillet-Guéguen, L., Caron, C., and Jeanthon, C. MicRhoDE: a curated database for the analysis of microbial rhodopsin diversity and evolution. Database (Oxford). 2015. doi: 10.1093/database/bav080
 
-[PubMed](https://pubmed.ncbi.nlm.nih.gov/26286928/)
-
+Links: [PubMed](https://pubmed.ncbi.nlm.nih.gov/26286928/)
 [DATABASE (Oxford)](https://academic.oup.com/database/article/doi/10.1093/database/bav080/2433213)
 
 ## Provided Files
